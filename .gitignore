@@ -1,5 +1,6 @@
 jar
 jar-test-library
+*.json
 
 # Compiled Object files
 *.o
