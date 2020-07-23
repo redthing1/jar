@@ -1,0 +1,5 @@
+name "jar"
+description "very simple ioc for D"
+authors "xdrie"
+copyright "Copyright © 2020, xdrie"
+license "apache-2.0"
